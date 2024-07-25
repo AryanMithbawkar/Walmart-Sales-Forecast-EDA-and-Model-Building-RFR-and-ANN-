@@ -1,0 +1,2 @@
+# Walmart-Sales-Forecast-EDA-and-Model-Building-RFR-and-ANN-
+This repository contains code and data for Walmart Sales Forecasting. It includes data acquisition, preprocessing, and visualization. Use the provided notebooks and scripts for exploratory data analysis, model training, and testing. Key datasets: features.csv, stores.csv, train.csv. Visualizations highlight trends and relationships in sales data.
