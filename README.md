@@ -42,10 +42,14 @@ jupyter notebook notebooks/exploratory_analysis.ipynb
 3. Model Training and Evaluation: Train and evaluate models using the scripts or notebooks provided.
    
 + Model Training and Evaluation
-  Train and evaluate models using the scripts or notebooks provided. This project includes implementations of RandomForestRegressor for sales forecasting.
+  Train and evaluate models using the scripts or notebooks provided. This project includes implementations of RandomForestRegressor, Linear Regression, Polynomial Regression, Support Vector Regression (SVR), Naive Bayes Regression, and Logistic Regression for sales forecasting.
   
-  - RandomForestRegressor:
-  The RandomForestRegressor is an ensemble learning method that constructs multiple decision trees and merges them to get a more accurate and stable prediction. It is particularly effective for handling large datasets with numerous features and helps to reduce overfitting by averaging the results of many decision trees.
+  - RandomForestRegressor: An ensemble method that uses multiple decision trees to improve prediction accuracy and control over-fitting.
+  - Linear Regression: A basic predictive analysis technique that shows the relationship between two variables by fitting a linear equation.
+  - Polynomial Regression: Extends linear regression by considering polynomial features, allowing it to model nonlinear relationships.
+  - Support Vector Regression (SVR): Uses the principles of support vector machines for regression tasks, effective in high-dimensional spaces.
+  - Naive Bayes Regression: A probabilistic model based on Bayes' theorem, useful for classification tasks transformed into regression problems.
+  - Logistic Regression: Primarily used for classification, but in this context, adapted for binary or categorical outcomes in sales forecasting.
   
  
 ## Visualization
