@@ -1,4 +1,4 @@
-# Walmart-Sales-Forecast-EDA-and-Model-Building-RFR-and-ANN-
+# Walmart-Sales-Forecast-EDA-and-Model-Building-And-Testing
 This repository contains code and data for Walmart Sales Forecasting. It includes data acquisition, preprocessing, and visualization. Use the provided notebooks and scripts for exploratory data analysis, model training, and testing. Key datasets: features.csv, stores.csv, train.csv. Visualizations highlight trends and relationships in sales data.
 
 # Walmart Sales Forecast
@@ -42,14 +42,12 @@ jupyter notebook notebooks/exploratory_analysis.ipynb
 3. Model Training and Evaluation: Train and evaluate models using the scripts or notebooks provided.
    
 + Model Training and Evaluation
-  Train and evaluate models using the scripts or notebooks provided. This project includes implementations of RandomForestRegressor and Artificial Neural Networks (ANN) for sales forecasting.
+  Train and evaluate models using the scripts or notebooks provided. This project includes implementations of RandomForestRegressor for sales forecasting.
   
   - RandomForestRegressor:
   The RandomForestRegressor is an ensemble learning method that constructs multiple decision trees and merges them to get a more accurate and stable prediction. It is particularly effective for handling large datasets with numerous features and helps to reduce overfitting by averaging the results of many decision trees.
   
-  - Artificial Neural Networks (ANN):
-  ANNs are computational models inspired by the human brain, consisting of interconnected layers of neurons. They are capable of capturing complex patterns and relationships in the data. In this project, an ANN is trained to learn the nonlinear relationships between the input features and sales, providing robust predictions through backpropagation and optimization techniques.
-
+ 
 ## Visualization
 The project includes various plots for data exploration and analysis:
 
