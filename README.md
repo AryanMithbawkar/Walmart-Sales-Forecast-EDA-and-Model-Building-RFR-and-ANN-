@@ -42,14 +42,12 @@ jupyter notebook notebooks/exploratory_analysis.ipynb
 3. Model Training and Evaluation: Train and evaluate models using the scripts or notebooks provided.
    
 + Model Training and Evaluation
-  Train and evaluate models using the scripts or notebooks provided. This project includes implementations of RandomForestRegressor, Linear Regression, Polynomial Regression, Ridge, Naive Bayes Regression, Logistic Regression, and Lasso for sales forecasting.
+  Train and evaluate models using the scripts or notebooks provided. This project includes implementations of RandomForestRegressor, Linear Regression, Polynomial Regression, Ridge, and Lasso for sales forecasting.
   
   - RandomForestRegressor: An ensemble method that uses multiple decision trees to improve prediction accuracy and control over-fitting.
   - Linear Regression: A basic predictive analysis technique that shows the relationship between two variables by fitting a linear equation.
   - Polynomial Regression: Extends linear regression by considering polynomial features, allowing it to model nonlinear relationships.
   - Ridge Regression: Ridge Regression (also known as Tikhonov regularization) is a technique used to analyze multiple regression data that suffer from multicollinearity. It adds a penalty on the size of coefficients to prevent overfitting.
-  - Naive Bayes Regression: A probabilistic model based on Bayes' theorem, useful for classification tasks transformed into regression problems.
-  - Logistic Regression: Primarily used for classification, but in this context, adapted for binary or categorical outcomes in sales forecasting.
   - Lasso Regression: Lasso Regression (Least Absolute Shrinkage and Selection Operator) is similar to Ridge Regression but includes a penalty term that can drive some coefficients to zero. This makes it useful for feature selection in high-dimensional datasets.
   
  
